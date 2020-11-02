@@ -20,9 +20,8 @@ Thumbs.db
 *.pyo
 node_modules
 .cache
-*.css
 build
-lib
-es
 yarn.lock
 package-lock.json
+.doc
+.history
